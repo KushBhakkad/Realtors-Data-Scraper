@@ -38,7 +38,8 @@ This project automates the scraping of realtor information from Realtor.ca as a 
 
 ## Example Output
 
-![Output](https://github.com/user-attachments/assets/0816db23-2e53-48af-903a-9bf2faf19ad9)
+![Output](https://github.com/user-attachments/assets/8cc23858-22a4-42b0-be8a-9fdf39bcb843)
+
 
 ## Future Enhancements
 - **Data Export:** Save the results to a CSV or database.
